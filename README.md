@@ -14,6 +14,7 @@ Integrating inference logic to evaluate expressions.
 
 ## 🛠️ Technologies Used
 **Programming Language:** Python
+
 **Libraries:** TensorFlow, OpenCV, NumPy
 
 ## 📊 Results (So Far)
